@@ -6,4 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-include_recipe "getting-started::default" 
+include_recipe "cheftutorial::config-headed"

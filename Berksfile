@@ -2,4 +2,4 @@ source "https://supermarket.chef.io"
 
 metadata
 
-cookbook 'getting-started', '0.4.0'
+cookbook 'cheftutorial', git: 'https://github.com/mungobungo/cheftutorial.git'
